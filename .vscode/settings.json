@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ERROR_FUNCTION.C": "cpp",
+        "dllinjectionlib.h": "c"
+    }
+}
